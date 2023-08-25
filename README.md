@@ -20,3 +20,12 @@ Bash For Beginners Playlist: https://www.youtube.com/playlist?list=PLlrxD0HtieHh
       - ls: list all the contents in the directory you selected
       - code {insert file name here}: selects the file you will begin coding in
       - clear: clears all the output 
+
+
+
+Learn to Cloud Day 2
+Bash For Beginners Playlist: https://www.youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l
+[4 of 20]: How to Get Help in Bash
+  - Help Command: help - built-in command into Bash that allows you to get back information on other commands
+    - Anything within  
+  - Man (Manual) Command 
