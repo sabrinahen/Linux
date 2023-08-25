@@ -27,5 +27,27 @@ Learn to Cloud Day 2
 Bash For Beginners Playlist: https://www.youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l
 [4 of 20]: How to Get Help in Bash
   - Help Command: help - built-in command into Bash that allows you to get back information on other commands
-    - Anything within  
-  - Man (Manual) Command 
+    - Anything inside square brackets is optional
+    - Anything that is divided by a vertial bar (pipe symbol | ) means that it is mutually exclusive
+    - Use --help if you are already typing the command and don't want to clear the line
+  - Man (Manual) Command: man - gives entire manual page for a given command
+    - To get to the help of the manual, press H key
+    - To move a half page down, press D key
+    - To move up a half page, press U key
+    - To move a full page, press space key
+    - To move a single line down, press J key
+    - To move a single line up, press K key
+    - To quit help page, press Q key
+    - To find examples, type "/EXAMPLES"
+[5 of 20]: How to Navigate the Terminal with Bash
+  - Print Out Working Directory Command: pwd
+  - Change Working Directory: cd
+  - Pushd and Popd ****
+    - Further Explanation: https://opensource.com/article/19/8/navigating-bash-shell-pushd-popd
+
+
+
+
+
+
+
