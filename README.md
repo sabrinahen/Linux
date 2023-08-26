@@ -44,6 +44,7 @@ Bash For Beginners Playlist: https://www.youtube.com/playlist?list=PLlrxD0HtieHh
   - Change Working Directory: cd
   - Pushd and Popd ****
     - Further Explanation: https://opensource.com/article/19/8/navigating-bash-shell-pushd-popd
+    - Further Explanation: https://linuxize.com/post/popd-and-pushd-commands-in-linux/
 
 
 
