@@ -46,7 +46,24 @@ Bash For Beginners Playlist: https://www.youtube.com/playlist?list=PLlrxD0HtieHh
     - Further Explanation: https://opensource.com/article/19/8/navigating-bash-shell-pushd-popd
     - Further Explanation: https://linuxize.com/post/popd-and-pushd-commands-in-linux/
 
-
+Learn to Cloud Day 3
+Bash For Beginners Playlist: https://www.youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l
+[6 of 20] How to List Content in the Terminal with Bash
+  - ls: shows all the content in the current working directory
+  - ls -a: shows hidden and unhidden files in the current working directory
+  - ls S*: shows all the files and folder that begin with a capital S followed by any number of characters (can be used with any letters)
+  - ls [CS]*: shows all files and folders that start with the a capital C or S followed by any number of characters
+  - ls *md: shows all files that have the .md extension (can be used with any extension)
+  - ls *.??: shows all files that have a 2 letter extension (each question mark represents one character)
+  - ls [[:upper:]]*: shows all siles and folder that start with an uppercase letter
+  - ls [[:lower:]]*: shows all siles and folder that start with an lowercase letter
+[7 of 20] How to Find Files in the terminal with Bash
+  - whereis: a command that locates the binary, source, and manual files for specific command name
+  - whereis -b: just the binary of the results
+  - which: returns the pathnames of the files which would be executed in the current environment
+  - find: search for files in a directory heirerachy
+    - find . -name "*.md" (the . represents the current director, -name means search by name)
+    - find /home -iname files.txt (the -iname helps you search for files so it doesn't matter if it starts with an uppercase or lowercase letter)
 
 
 
