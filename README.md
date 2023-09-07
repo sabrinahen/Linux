@@ -65,7 +65,31 @@ Bash For Beginners Playlist: https://www.youtube.com/playlist?list=PLlrxD0HtieHh
     - find . -name "*.md" (the . represents the current director, -name means search by name)
     - find /home -iname files.txt (the -iname helps you search for files so it doesn't matter if it starts with an uppercase or lowercase letter)
 
-
-
-
+Learn to Cloud Day 4
+Bash For Beginners Playlist: https://www.youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l
+[8 of 20] How to Work with Directories in the Terminal with Bash
+  - mkdir: makes directories
+  - mkdir -p: creates a subdirectory for a directory that does not exist yet
+  - touch: makes files
+  - mv: moving files
+  - cp: copy files and directories and rename files in the copying process
+  - rm: removes files
+  - rmdir: remove directories
+[9 of 20] How to View Contents in the Terminal with Bash
+  - cat: shows the content of the file
+  - head: shows first 10 lines of the content of a log file
+    - use -n to state how many files you want
+  - tail: shows last 10 lines of the content of a log file
+  - more:  If the content of the file is too large to fit in one screen, it displays the contents page by page. You can scroll through the contents of the file by pressing ENTER or SPACE BAR keys.
+      - defintion from https://ostechnix.com/the-difference-between-more-less-and-most-commands/
+  - less: The 'less' command is also used to open a given file for interactive reading, allowing scrolling and search. If the content of the file is too large, it pages the output and so you can scroll page by page. It allows scrolling on both directions. Meaning - you can scroll up and down through a file.
+      -defintion from https://ostechnix.com/the-difference-between-more-less-and-most-commands/
+  - grep: The grep filter searches a file for a particular pattern of characters, and displays all lines that contain that pattern. The pattern that is searched in the file is referred to as the regular expression (grep stands for global search for regular expression and print out).
+      - definition from https://www.geeksforgeeks.org/grep-command-in-unixlinux/
+[10 of 20] What are Environment Variables?
+  - Environment variables or ENVs basically define the behavior of the environment. They can affect the ongoing processes or programs executed in the environment.
+  - env: presents all the enviroment variables that are currently available
+  - echo: get the value of the environment variable
+  - export: create environment variables (only available in curremt session)
+      - you can make this more permanent by doing export in certain files
 
