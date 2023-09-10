@@ -93,3 +93,9 @@ Bash For Beginners Playlist: https://www.youtube.com/playlist?list=PLlrxD0HtieHh
   - export: create environment variables (only available in curremt session)
       - you can make this more permanent by doing export in certain files
 
+Learn to Cloud Day 5
+Bash For Beginners Playlist: https://www.youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l
+[11 of 20] How to Use Redirection and Pipelines in Bash
+  - Everything that you see on the terminal either came from an output stream or an input stream.In Bash, you can redirect and or chain together that output using the redirection operator and the pipeline.
+    
+
